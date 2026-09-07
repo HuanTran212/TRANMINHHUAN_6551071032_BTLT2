@@ -67,7 +67,7 @@
             Console.WriteLine($"Thưởng cơ bản     : {thuong1:N0} VND");
             Console.WriteLine($"Thưởng theo hệ số : {thuong2:N0} VND");
             Console.WriteLine($"Thưởng + phúc lợi : {thuong3:N0} VND");
-
+            Console.WriteLine(6551071032);
             Console.ReadKey();
         }
 

@@ -172,7 +172,7 @@
                 Console.WriteLine($"Tác giả       : {TacGia}");
                 Console.WriteLine($"Năm xuất bản  : {NamXuatBan}");
                 Console.WriteLine($"Giá bán       : {GiaBan:N0} VND");
-
+                Console.WriteLine("6551071032");
                 Console.WriteLine("======================================");
                 Console.WriteLine();
             }

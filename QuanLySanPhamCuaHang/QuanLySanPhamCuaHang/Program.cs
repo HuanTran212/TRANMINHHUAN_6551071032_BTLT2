@@ -239,7 +239,7 @@ namespace QuanLySanPhamCuaHang
             Console.WriteLine();
             Console.WriteLine("========== TỔNG GIÁ TRỊ KHO ==========");
             Console.WriteLine($"Tổng giá trị kho hàng: {tongGiaTriKho:N0} VNĐ");
-
+            Console.WriteLine("6551071032");
             Console.ReadKey();
         }
     }
